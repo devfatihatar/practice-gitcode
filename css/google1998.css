@@ -1,0 +1,54 @@
+body{
+    padding:0;
+}
+header{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+section input{
+    margin-top:0;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+    clear:both;
+}
+article{
+    justify-content: center;
+    text-align: center;
+}
+.box-container{
+    display:flex;
+    justify-content: center;
+    gap:4px;
+    margin-top:8px;
+}
+.box{
+    text-align: center;
+    align-content: center;
+}
+.box p{
+    margin:0
+}
+.box__long{
+    width:35%;
+    height: 90px;
+}
+.box__short{
+    width:13%;
+    height: 90px;
+}
+.box--color1{
+    background-color: #7EE5DA;
+    
+}
+.box--color2{
+    background-color: #70CCC2;
+    
+}
+.box--color3{
+    background-color:#62B3AA;
+}
